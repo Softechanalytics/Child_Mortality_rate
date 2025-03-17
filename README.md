@@ -1,5 +1,7 @@
 <h1>🌍 Child Mortality Rate Dashboard </h1>
 
+![image alt](https://github.com/Softechanalytics/Child_Mortality_rate/blob/8c906d97201383edd31ef1f10e85954236ca7bcd/childmotality.png)
+
 <h3>📋 Overview</h3>
 
 <p>This Power BI dashboard visualizes child mortality trends from 2000 to 2022. It highlights the estimated share of newborns who die before reaching the age of five. The dashboard provides insights into regional patterns, top affected countries, and year-over-year changes in mortality rates.</p>
