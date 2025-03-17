@@ -34,29 +34,30 @@
 </ul>
 </li>
 <h3>📌 How to Use</h3>
+<ol>
+<li>Open the Power BI dashboard.</li>
 
-Open the Power BI dashboard.
+<li>Use the filters to explore different continents and compare trends.</li>
 
-Use the filters to explore different continents and compare trends.
-
-Analyze the Top 5 Countries chart to identify critical regions needing intervention.
+<li>Analyze the Top 5 Countries chart to identify critical regions needing intervention.</li>
+</ol>
 
 <h3>🛠 Tech Stack</h3>
+<ul>
+<li>Power BI: Data visualization</li>
 
-Power BI: Data visualization
+<li>Excel / CSV: Data preparation and transformation</li>
 
-Excel / CSV: Data preparation and transformation
-
-DAX / M Query: Data modeling and calculations
-
+<li>DAX / M Query: Data modeling and calculations</li>
+</ul>
 <h3>🚀 Future Enhancements</h3>
+<ul>
+<li>Add country-specific interventions and policy impacts.</li>
 
-Add country-specific interventions and policy impacts.
+<li>Incorporate predictive analytics for future trend forecasting.</li>
 
-Incorporate predictive analytics for future trend forecasting.
-
-Expand insights to include socio-economic factors contributing to child mortality.
-
+<li>Expand insights to include socio-economic factors contributing to child mortality.</li>
+</ul>
 <h3>📞 Contact</h3>
 
 For inquiries, collaborations, or feedback, please reach out via GitHub issues or email.
