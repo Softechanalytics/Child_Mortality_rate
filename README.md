@@ -20,9 +20,9 @@
 
 <li>Steady Decrease: Mortality decreased from 12.34% in 2000 to 5.51% in 2022.</li>
 
-<li>Top 5 Countries with significant rates:
-
-<liChad</li>
+<li><em>Top 5 Countries with significant rates:</em>
+<ul>
+<li>Chad</li>
 
 <li>Niger</li>
 
@@ -31,7 +31,8 @@
 <li>Sierra Leone</li>
 
 <li>Somalia</li>
-</ul></li></ul>
+</ul>
+</li>
 <h3>📌 How to Use</h3>
 
 Open the Power BI dashboard.
