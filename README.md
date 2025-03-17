@@ -60,5 +60,4 @@
 </ul>
 <h3>📞 Contact</h3>
 
-For inquiries, collaborations, or feedback, please reach out via GitHub issues or email.
-
+For inquiries, collaborations, or feedback, please reach out via GitHub issues or Chuks@softechanalytics.com
