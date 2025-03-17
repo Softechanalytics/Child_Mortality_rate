@@ -15,11 +15,11 @@
 <li><em>Interactive Filters: </em>Filter by continent for customized insights.</li>
 </ul>
 <h3>📊 Insights</h3>
-<ul>
+
 <li>Global Under 5 Mortality in 2000: 8.29%</li>
 
 <li>Steady Decrease: Mortality decreased from 12.34% in 2000 to 5.51% in 2022.</li>
-<ul>
+
 <li>Top 5 Countries with significant rates:
 
 <liChad</li>
